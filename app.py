@@ -88,7 +88,7 @@ def user_input(user_question):
 
 def main():
     st.set_page_config(page_title="Chat PDF with Llama3 via Grocks API")
-    st.header("Chat with PDF using Llama3 via Grocks API 💁")
+    st.header("❄️ Chat with PDF ")
 
     user_question = st.text_input("Ask a Question from the PDF Files")
 
